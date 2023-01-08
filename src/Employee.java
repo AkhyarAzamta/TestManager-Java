@@ -54,7 +54,7 @@ class TestManager {
             System.out.println("Name: "+ Utama.GetName());
             System.out.println("Salary: "+ Utama.GetSalary());
             System.out.println("Department: "+ Utama.GetDept());
-    
+
             Utama = new Manager("Michael","Acounting");
             System.out.println("Name: "+ Utama.GetName());
             System.out.println("Salary: "+ Utama.GetSalary());
